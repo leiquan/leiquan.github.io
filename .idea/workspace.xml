@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c51ce6b-8dcc-4744-83aa-72ecef20f686" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leiquan.love/img/avatar-dhg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leiquan.love/img/instagram_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leiquan.love/img/unsplash_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leiquan.love/img/unsplash_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leiquan.love/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leiquan.love/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leiquan.love/img/gulp-white-text.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leiquan.love/img/gulp-white-text2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leiquan.love/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leiquan.love/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leiquan.love/js/highlight.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leiquan.love/js/jquery.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/leiquan.me/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/leiquan.me/css/main.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/avatar-dhg.png" afterPath="$PROJECT_DIR$/leiquan.me/img/avatar-dhg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/gulp-white-text.svg" afterPath="$PROJECT_DIR$/leiquan.me/img/gulp-white-text.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/gulp-white-text2.svg" afterPath="$PROJECT_DIR$/leiquan.me/img/gulp-white-text2.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/instagram_2.jpg" afterPath="$PROJECT_DIR$/leiquan.me/img/instagram_2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/unsplash_1.jpg" afterPath="$PROJECT_DIR$/leiquan.me/img/unsplash_1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/unsplash_2.jpg" afterPath="$PROJECT_DIR$/leiquan.me/img/unsplash_2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/leiquan.me/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/leiquan.me/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/highlight.min.js" afterPath="$PROJECT_DIR$/leiquan.me/js/highlight.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.min.js" afterPath="$PROJECT_DIR$/leiquan.me/js/jquery.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leiquan.love/index.html" afterPath="$PROJECT_DIR$/leiquan.love/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leiquan.me/index.html" afterPath="$PROJECT_DIR$/leiquan.me/index.html" />
     </list>
     <ignored path="leiquan.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,7 +24,28 @@
     <favorites_list name="leiquan.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leiquan.me/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.32743362">
+              <caret line="28" column="72" selection-start-line="28" selection-start-column="72" selection-end-line="28" selection-end-column="72" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leiquan.love/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.5">
+              <caret line="66" column="20" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -72,6 +69,8 @@
         <option value="$PROJECT_DIR$/huishu.html" />
         <option value="$PROJECT_DIR$/email-0.html" />
         <option value="$PROJECT_DIR$/html-email.html" />
+        <option value="$PROJECT_DIR$/leiquan.love/index.html" />
+        <option value="$PROJECT_DIR$/leiquan.me/index.html" />
       </list>
     </option>
   </component>
@@ -116,6 +115,20 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="leiquan.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leiquan.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leiquan.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leiquan.me" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -570,16 +583,16 @@
       <updated>1446700424467</updated>
       <workItem from="1446700425807" duration="318000" />
       <workItem from="1446725494588" duration="2074000" />
-      <workItem from="1447580075058" duration="56000" />
+      <workItem from="1447580075058" duration="323000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2448000" />
+    <option name="totallyTimeSpent" value="2715000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="820" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -589,7 +602,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -626,14 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leiquan.me/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.625">
-          <caret line="117" column="13" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -702,6 +707,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leiquan.love/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.5">
+          <caret line="66" column="20" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leiquan.me/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32743362">
+          <caret line="28" column="72" selection-start-line="28" selection-start-column="72" selection-end-line="28" selection-end-column="72" />
           <folding />
         </state>
       </provider>
