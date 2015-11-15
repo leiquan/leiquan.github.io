@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c51ce6b-8dcc-4744-83aa-72ecef20f686" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leiquan.love/apple.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leiquan.love/favicon.ico" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leiquan.love/index.html" afterPath="$PROJECT_DIR$/leiquan.love/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leiquan.love/life.html" afterPath="$PROJECT_DIR$/leiquan.love/life.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leiquan.love/rose.html" afterPath="$PROJECT_DIR$/leiquan.love/rose.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leiquan.me/index.html" afterPath="$PROJECT_DIR$/leiquan.me/index.html" />
@@ -35,8 +33,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leiquan.me/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.75">
-              <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="81" selection-end-column="9" />
+            <state vertical-scroll-proportion="-17.5">
+              <caret line="81" column="8" selection-start-line="79" selection-start-column="4" selection-end-line="81" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -46,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/leiquan.me/learning.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-15.625">
-              <caret line="79" column="39" selection-start-line="79" selection-start-column="39" selection-end-line="79" selection-end-column="39" />
+              <caret line="79" column="4" selection-start-line="79" selection-start-column="4" selection-end-line="81" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -55,8 +53,8 @@
       <file leaf-file-name="living.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leiquan.me/living.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.5">
-              <caret line="79" column="33" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
+            <state vertical-scroll-proportion="-13.125">
+              <caret line="79" column="4" selection-start-line="79" selection-start-column="4" selection-end-line="81" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -65,18 +63,18 @@
       <file leaf-file-name="writing.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leiquan.me/writing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.5">
-              <caret line="79" column="37" selection-start-line="79" selection-start-column="37" selection-end-line="79" selection-end-column="37" />
+            <state vertical-scroll-proportion="-13.75">
+              <caret line="80" column="32" selection-start-line="80" selection-start-column="32" selection-end-line="80" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/leiquan.love/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="29.375">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="23" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.48672566">
+              <caret line="72" column="29" selection-start-line="72" selection-start-column="29" selection-end-line="72" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -86,17 +84,17 @@
         <entry file="file://$PROJECT_DIR$/leiquan.love/life.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-10.625">
-              <caret line="72" column="23" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="23" />
+              <caret line="72" column="11" selection-start-line="72" selection-start-column="11" selection-end-line="72" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rose.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="rose.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leiquan.love/rose.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3761062">
-              <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
+            <state vertical-scroll-proportion="-12.5">
+              <caret line="72" column="11" selection-start-line="72" selection-start-column="11" selection-end-line="72" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -126,13 +124,13 @@
         <option value="$PROJECT_DIR$/huishu.html" />
         <option value="$PROJECT_DIR$/email-0.html" />
         <option value="$PROJECT_DIR$/html-email.html" />
-        <option value="$PROJECT_DIR$/leiquan.love/index.html" />
         <option value="$PROJECT_DIR$/leiquan.me/index.html" />
-        <option value="$PROJECT_DIR$/leiquan.me/writing.html" />
-        <option value="$PROJECT_DIR$/leiquan.me/living.html" />
         <option value="$PROJECT_DIR$/leiquan.me/learning.html" />
-        <option value="$PROJECT_DIR$/leiquan.love/life.html" />
+        <option value="$PROJECT_DIR$/leiquan.me/living.html" />
+        <option value="$PROJECT_DIR$/leiquan.me/writing.html" />
         <option value="$PROJECT_DIR$/leiquan.love/rose.html" />
+        <option value="$PROJECT_DIR$/leiquan.love/life.html" />
+        <option value="$PROJECT_DIR$/leiquan.love/index.html" />
       </list>
     </option>
   </component>
@@ -662,12 +660,12 @@
       <updated>1446700424467</updated>
       <workItem from="1446700425807" duration="318000" />
       <workItem from="1446725494588" duration="2074000" />
-      <workItem from="1447580075058" duration="3190000" />
+      <workItem from="1447580075058" duration="3406000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5582000" />
+    <option name="totallyTimeSpent" value="5798000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="820" extended-state="0" />
@@ -798,18 +796,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leiquan.me/writing.html">
+    <entry file="file://$PROJECT_DIR$/leiquan.me/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.5">
-          <caret line="79" column="37" selection-start-line="79" selection-start-column="37" selection-end-line="79" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leiquan.me/living.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.5">
-          <caret line="79" column="33" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
+        <state vertical-scroll-proportion="-17.5">
+          <caret line="81" column="8" selection-start-line="79" selection-start-column="4" selection-end-line="81" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -817,23 +807,31 @@
     <entry file="file://$PROJECT_DIR$/leiquan.me/learning.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-15.625">
-          <caret line="79" column="39" selection-start-line="79" selection-start-column="39" selection-end-line="79" selection-end-column="39" />
+          <caret line="79" column="4" selection-start-line="79" selection-start-column="4" selection-end-line="81" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leiquan.me/index.html">
+    <entry file="file://$PROJECT_DIR$/leiquan.me/living.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.125">
+          <caret line="79" column="4" selection-start-line="79" selection-start-column="4" selection-end-line="81" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leiquan.me/writing.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.75">
-          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="81" selection-end-column="9" />
+          <caret line="80" column="32" selection-start-line="80" selection-start-column="32" selection-end-line="80" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leiquan.love/index.html">
+    <entry file="file://$PROJECT_DIR$/leiquan.love/rose.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="29.375">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="23" selection-end-column="7" />
+        <state vertical-scroll-proportion="-12.5">
+          <caret line="72" column="11" selection-start-line="72" selection-start-column="11" selection-end-line="72" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -841,15 +839,15 @@
     <entry file="file://$PROJECT_DIR$/leiquan.love/life.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.625">
-          <caret line="72" column="23" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="23" />
+          <caret line="72" column="11" selection-start-line="72" selection-start-column="11" selection-end-line="72" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leiquan.love/rose.html">
+    <entry file="file://$PROJECT_DIR$/leiquan.love/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3761062">
-          <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.48672566">
+          <caret line="72" column="29" selection-start-line="72" selection-start-column="29" selection-end-line="72" selection-end-column="29" />
           <folding />
         </state>
       </provider>
