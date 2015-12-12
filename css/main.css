@@ -100,4 +100,8 @@ a:focus {
     color: inherit;
 }
 
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: white;
+}
+
 
