@@ -2,6 +2,7 @@ body {
     font-family: "Helvetica Neue", "Helvetica", "Lucida Grande", "Arial", "Hiragino Sans GB", "Microsoft Yahei", "WenQuanYi Micro Hei", "sans-serif";
     font-weight: normal;
     padding-top: 50px;
+    background-color: #f5f8fa;
 }
 
 a {
@@ -97,6 +98,10 @@ a:focus {
 .footer a:hover {
     text-decoration: none;
     color: inherit;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: white;
 }
 
 
