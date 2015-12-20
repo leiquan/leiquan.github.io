@@ -1,0 +1,16 @@
+.main{
+    padding-top: 50px;
+    margin-bottom: 50px;
+    width: 1000px;
+}
+.main a.media{
+    width: 1000px;
+    height: 1200px;
+}
+
+.main  iframe{
+   border: 0px;
+    margin: 0;
+    padding: 0;
+    outline: none;
+}

@@ -1,0 +1,124 @@
+.teacher{
+    width: 700px;
+    height: auto;
+    background-color: white;
+    overflow: hidden;
+}
+
+.teacher .title{
+    width: 700px;
+    height: 60px;
+    line-height: 60px;
+    font-size: 20px;
+    box-sizing: border-box;
+    padding-left: 20px;
+}
+
+.teacher .content{
+    width: 700px;
+    height: auto;
+    position: relative;
+}
+
+.teacher .content .item-wrap{
+    width: 440px;
+    height: auto;
+    float: left;
+    position: relative;
+}
+
+.teacher .content .item{
+    width: 440px;
+    height: 40px;
+    line-height: 40px;
+}
+
+.teacher .content .item .header{
+    width: 100px;
+    height: 40px;
+    line-height: 40px;
+    float: left;
+    background-color: white;
+    box-sizing: border-box;
+    padding-left: 20px;
+}
+
+.teacher .content .item .content{
+    width: 340px;
+    height: 40px;
+    line-height: 40px;
+    float: left;
+}
+
+.teacher .content .person{
+    width: 260px;
+    height: 440px;
+}
+
+.student{
+    width: 700px;
+    height: auto;
+    min-height: 200px;
+    margin-top: 70px;
+    background-color: #ededef;
+}
+
+.student .title{
+    width: 700px;
+    height: 60px;
+    line-height: 60px;
+    font-size: 20px;
+    box-sizing: border-box;
+    padding-left: 20px;
+    margin-top: 20px;
+    background-color: white;
+}
+
+.student .time{
+    width: 700px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 17px;
+    text-align: center;
+    color: gray;
+    background-color: white;
+}
+
+
+.student .content{
+    width: 700px;
+    height: auto;
+    min-height: 200px;
+    overflow: hidden;
+    background-color: white;
+}
+
+.student .content .item{
+    width: 145px;
+    height: 220px;
+    margin: 5px 10px 5px 10px;
+    float: left;
+    background-color: white;
+}
+
+.student .content .item img{
+    width: 145px;
+    height: 180px;
+}
+.student .content .item .name{
+    width: 145px;
+    height: 20px;
+    text-align: center;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.student .content .item .email{
+    width: 145px;
+    height: 20px;
+    font-size: 12px;
+    text-align: center;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
